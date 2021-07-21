@@ -40,8 +40,8 @@
 </p>
 
 ## My Stats
-![RubixDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubixDev&show_icons=true&theme=dracula&hide_rank=true)
+![RubixDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubixDev&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubixDev&theme=dracula&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubixDev&theme=dracula&langs_count=20&layout=compact)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RubixDev&theme=dracula&margin-w=5&margin-h=5&column=3&row=6)
