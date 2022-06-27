@@ -17,12 +17,11 @@ jobs:
           base_indepth: yes
           plugin_isocalendar: yes
           plugin_languages: yes
+          plugin_languages_ignored: RenderScript, GAP
           plugin_languages_limit: 0
           plugin_languages_details: percentage, lines
           plugin_languages_indepth: yes
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          plugin_followup_indepth: yes
