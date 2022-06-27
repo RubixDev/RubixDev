@@ -36,9 +36,5 @@
     <img alt="Android Studio" title="Android Studio" src="icons/android-studio.svg" height="40">
 </p>
 
-## My Stats
-![RubixDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubixDev&show_icons=true&theme=dracula&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubixDev&theme=dracula&langs_count=20&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RubixDev&theme=dracula&margin-w=5&margin-h=5&column=3&row=6)
+## Metrics
+![Metrics](/github-metrics.svg)
