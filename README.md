@@ -2,7 +2,7 @@
 
 - Website: **https://rubixdev.de**
 
-- Discord: **Rubix#7875**
+- Discord: **RubixDev#7875**
 - [**LinkedIn**](https://www.linkedin.com/in/silas-groh-68956b236/)
 
 ## My Development Skills
